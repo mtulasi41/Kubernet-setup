@@ -1,0 +1,7 @@
+Kubernet Installation step by step
+Create 3 Ec2 Instances Master Node,Worker Node1,Worker Node2
+configure vim /etc/hosts file with private ip of ec2instance
+172.31.28.30 k8master
+172.31.22.164 k8worker01
+172.31.16.192 k8worker02
+
